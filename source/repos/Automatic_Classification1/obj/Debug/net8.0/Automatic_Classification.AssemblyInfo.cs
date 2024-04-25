@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Automatic_Classification")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46d5338550b89cb689242d8955947a0fc498e99e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Automatic_Classification")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Automatic_Classification")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

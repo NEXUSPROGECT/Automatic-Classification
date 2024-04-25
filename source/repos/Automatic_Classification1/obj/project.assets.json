@@ -247,11 +247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vusez\\source\\repos\\Automatic_Classification\\Automatic_Classification.csproj",
+      "projectUniqueName": "C:\\Users\\Vusez\\source\\repos\\Automatic_Classification1\\Automatic_Classification.csproj",
       "projectName": "Automatic_Classification",
-      "projectPath": "C:\\Users\\Vusez\\source\\repos\\Automatic_Classification\\Automatic_Classification.csproj",
+      "projectPath": "C:\\Users\\Vusez\\source\\repos\\Automatic_Classification1\\Automatic_Classification.csproj",
       "packagesPath": "C:\\Users\\Vusez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vusez\\source\\repos\\Automatic_Classification\\obj\\",
+      "outputPath": "C:\\Users\\Vusez\\source\\repos\\Automatic_Classification1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vusez\\AppData\\Roaming\\NuGet\\NuGet.Config",
